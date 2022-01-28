@@ -1,0 +1,39 @@
+{
+  "name": "Crypto Hares #8804",
+  "description": "One of 8,888 unique Crypto Hares on the Ethereum blockchain.",
+  "image": "https://raw.githubusercontent.com/cryptohares/cryptohares/main/meta/tokens/8804.png",
+  "dna": "9527db39ca826b5596f644e8ae6ed8b5d8a1acc4",
+  "edition": 8804,
+  "date": 1642916786539,
+  "attributes": [
+    {
+      "trait_type": "Wings",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Left Ear",
+      "value": "Up"
+    },
+    {
+      "trait_type": "Right Ear",
+      "value": "Down"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Hare"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Hands Down"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pink Bow"
+    },
+    {
+      "trait_type": "Face",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
